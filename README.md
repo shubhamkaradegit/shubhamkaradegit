@@ -33,6 +33,12 @@ I build **scalable full-stack web applications** using modern technologies with 
       </a><br/>
       <b>GitHub</b>
     </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Shubham_Karade/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+      </a><br/>
+      <b>LeetCode</b>
+    </td>
   </tr>
 </table>
 
@@ -217,7 +223,6 @@ Hands-on training in:
   <img src="https://leetcard.jacoblin.cool/Shubham_Karade?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
-- LeetCode: https://leetcode.com/u/Shubham_Karade/
 
 ---
 
