@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham D. Karade
+# 👋 Hi, I'm Shubham Karade
 
 ### Full-Stack Web Developer (MERN) | Computer Engineering Student
 
